@@ -1,0 +1,6 @@
+001-0964a00	T 001-0964a	buddhist/T-taisho/T46/09/T46-0964.png
+001-0964b00	T 001-0964b	buddhist/T-taisho/T46/09/T46-0964.png
+001-0964c00	T 001-0964c	buddhist/T-taisho/T46/09/T46-0964.png
+001-0965a00	T 001-0965a	buddhist/T-taisho/T46/09/T46-0965.png
+001-0965b00	T 001-0965b	buddhist/T-taisho/T46/09/T46-0965.png
+001-0965c00	T 001-0965c	buddhist/T-taisho/T46/09/T46-0965.png
